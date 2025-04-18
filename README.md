@@ -43,6 +43,11 @@ The project contains the following files:
 - **Backend**: PHP
 - **Database**: MySQL
 
+## Project Presentation
+
+A video presentation of the project is available at the following link:
+[Project Presentation Video](https://drive.google.com/file/d/1m-W6eU4m3i0-PYYhhXnw3TT7PtPPrZDe/view?usp=sharing)
+
 ## Screenshots
 
 Include screenshots of the application here (e.g., registration page, login page, product page, etc.).
